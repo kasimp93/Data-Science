@@ -1,0 +1,28 @@
+// Q1 (total 30). 
+1) At least 5 popular categories; 4/4 (top 16 categories)
+2) Input to clusterings have both location + categories; 4/4 
+
+3) Heuristic to find number of clusters; 4/6 (error of kmeans should be monotonically decreasing)
+
+4) Output meaningful cluster labels; 4/4 
+
+5) kmeans + hierarchical + gmm; 6/6
+
+6) Explanation of parameters; 6/6
+
+// Q2 (total 10)
+7) Clusters have little overlap; 3/5 (there is quite some overlap in all clustering methods)
+
+8) Visualization has cluster labels; 5/5 
+
+// Q3 (outliers) (10 points)
+9) Outliers for K-means; 4/5 (outlier should be defined by unique id which is location (lat,lon), also 
+
+10) Observations about outliers; 0/5: 
+
+11) (bonus) : Outliers for other clusterings; 0/3 
+
+// Q4 (total 10)
+12) Brief explanation of 3 clustering methods implemented above; 10/10
+
+Total: 50/60

@@ -1,0 +1,8 @@
+Q1: hypothesis  0/5 (missing - what are you trying to test? the goal was to first decide what you are going to test and then se if it is actually true)
+Q2: timeseries  20/20
+Q3: hypothesis interpretation  3/5 (missing for cosine)
+Q4: plots       5/5
+Q5: comparison  4/5 (could elaborate more based on the properties of the metric)
+Q6: bonus       0/10
+
+Total:          32/40

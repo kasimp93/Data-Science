@@ -1,0 +1,19 @@
+Grading for Homework 3.2
+
+Task 1
+1) Linear model creation and report of results: 10/10
+2) Linear model discussion of results and overfitting: 5/5
+
+Task 2
+1) Logistic regression creation and report of results: 10/10
+2) Logistic regression discussion of results and definition of binary attribute: 5/5
+
+Task 3
+1) KNN creation and report of results: 10/10
+2) KNN discussion of results and definition of how nearest neighbors were defined (some similarity): 5/5
+
+Task 4
+1) Decision Trees creation and report of results: 10/10
+2) Decision Trees discussion of results and some discussion on selected attributes of the Decision Trees function: 5/5
+
+Total:               60/60

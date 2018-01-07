@@ -1,0 +1,9 @@
+Q1: traveler_ratings.csv (hotel_name, class_of_rating, rating, num_reviews)     
+
+9/10 (355 out of ~400)
+
+Q2: review_ratings.csv (hotel_name, reviewer_name, ethnicity, num_reviews, date, rating, neg_review, pos_review)   
+
+20/25 (404653 out of ~50000 — missing)
+
+Total:                       29/35

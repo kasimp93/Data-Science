@@ -1,0 +1,22 @@
+Q1, 20 points total
+
+Parse data to extract reviews, latitude and longitude for businesses; 2/2
+Extract meaningful terms from reviews; 5/5
+Create data structure similar to document-term matrix; 3/3
+Use some method to find an appropriate number of singular vectors; 5/5
+SVD on document-term structure; 5/5
+
+
+Q2, 25 points total
+Input to cluster is based on the output of SVD; 5/5
+Input to cluster also contains lat+lon as features; 2/2
+Cluster data using kmeans, hierarchical and gmm; 8/8
+Clusters have little overlap; 2/5(The overlap are too large)
+Clusters/Plots have meaningful labels; 5/5
+
+
+Q3, 15 points total
+Compare visual results with part 1; 10/10
+Compare metric results with part 1; 5/5
+
+Total: 57/60
